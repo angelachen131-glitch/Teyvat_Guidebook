@@ -1,0 +1,1865 @@
+[
+  {
+    "id": "albedo",
+    "name": "Albedo",
+    "element": "Geo",
+    "weapon": "Sword",
+    "nation": "Mondstadt",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "The Chief Alchemist and Captain of the Investigation Team of the Knights of Favonius.",
+    "recommendedArtifactSet": "Husk of Opulent Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Cinnabar Spindle",
+    "recommendedWeaponStat": "DEF%",
+    "image": "https://paimon.moe/images/characters/albedo.png"
+  },
+  {
+    "id": "heizou",
+    "name": "Shikanoin Heizou",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "nation": "Inazuma",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A young detective from the Tenryou Commission. He is a man of great intelligence and talent.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Widsith",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/shikanoin_heizou.png"
+  },
+  {
+    "id": "alhaitham",
+    "name": "Alhaitham",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The current scribe of the Sumeru Akademiya. He is a man of great intelligence and talent.",
+    "recommendedArtifactSet": "Gilded Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Light of Foliar Incision",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/alhaitham.png"
+  },
+  {
+    "id": "aloy",
+    "name": "Aloy",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "nation": "Other",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "Outcast, machine hunter, seeker, anointed, savior... Aloy had many names in her world.",
+    "recommendedArtifactSet": "Blizzard Strayer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Thundering Pulse",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/aloy.png"
+  },
+  {
+    "id": "amber",
+    "name": "Amber",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "nation": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "description": "Always energetic and full of life, Amber's the best — albeit only — Outrider of the Knights of Favonius.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Elegy for the End",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/amber.png"
+  },
+  {
+    "id": "arlecchino",
+    "name": "Arlecchino",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Fourth of the Fatui Harbingers, known as 'The Knave'. She is the 'Father' of the House of the Hearth.",
+    "recommendedArtifactSet": "Fragment of Harmonic Whimsy (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Crimson Moon's Semblance",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/arlecchino.png"
+  },
+  {
+    "id": "ayaka",
+    "name": "Kamisato Ayaka",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "Daughter of the Yashiro Commission's Kamisato Clan. Dignified and elegant, as well as wise and strong.",
+    "recommendedArtifactSet": "Blizzard Strayer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit DMG",
+      "substats": ["Crit DMG", "ATK%", "Energy Recharge", "Crit Rate"]
+    },
+    "recommendedWeapon": "Mistsplitter Reforged",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/kamisato_ayaka.png"
+  },
+  {
+    "id": "ayato",
+    "name": "Kamisato Ayato",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The current head of the Kamisato Clan and the Yashiro Commissioner. He is a man of great intelligence and talent.",
+    "recommendedArtifactSet": "Echoes of an Offering (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Haran Geppaku Futsu",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/kamisato_ayato.png"
+  },
+  {
+    "id": "baizhu",
+    "name": "Baizhu",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "nation": "Liyue",
+    "role": "Healer / Support",
+    "rarity": 5,
+    "description": "The owner of Bubu Pharmacy, who is rarely seen without the white snake named Changsheng around his neck.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / HP%",
+      "goblet": "HP%",
+      "circlet": "HP% / Healing Bonus"
+    },
+    "recommendedWeapon": "Jadefall's Splendor",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/baizhu.png"
+  },
+  {
+    "id": "barbara",
+    "name": "Barbara",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Mondstadt",
+    "role": "Healer",
+    "rarity": 4,
+    "description": "Every inhabitant of Mondstadt loves Barbara. She's the Deaconess of the Church of Favonius and a shining idol.",
+    "recommendedArtifactSet": "Ocean-Hued Clam (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "Healing Bonus / HP%"
+    },
+    "recommendedWeapon": "Prototype Amber",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/barbara.png"
+  },
+  {
+    "id": "beidou",
+    "name": "Beidou",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "nation": "Liyue",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "Captain of the Crux, with quite a reputation in Liyue. Some say she can split even the mountains and part the seas.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Serpent Spine",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/beidou.png"
+  },
+  {
+    "id": "bennett",
+    "name": "Bennett",
+    "element": "Pyro",
+    "weapon": "Sword",
+    "nation": "Mondstadt",
+    "role": "Buffer / Healer",
+    "rarity": 4,
+    "description": "A righteous and good-natured adventurer from Mondstadt who's unfortunately extremely unlucky.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "HP%",
+      "circlet": "Healing Bonus / HP%"
+    },
+    "recommendedWeapon": "Skyward Blade",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/bennett.png"
+  },
+  {
+    "id": "candace",
+    "name": "Candace",
+    "element": "Hydro",
+    "weapon": "Polearm",
+    "nation": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A descendant of King Deshret with an amber left eye. The defender of Aaru Village.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Favonius Lance",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/candace.png"
+  },
+  {
+    "id": "charlotte",
+    "name": "Charlotte",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "nation": "Fontaine",
+    "role": "Healer",
+    "rarity": 4,
+    "description": "A reporter for the Steambird who is always on the hunt for the next big scoop.",
+    "recommendedArtifactSet": "Ocean-Hued Clam (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "ATK%",
+      "circlet": "Healing Bonus / ATK%"
+    },
+    "recommendedWeapon": "Favonius Codex",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/charlotte.png"
+  },
+  {
+    "id": "chasca",
+    "name": "Chasca",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "nation": "Natlan",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The 'Peacemaker' of the Flower-Feather Clan. She is known for her exceptional combat skills.",
+    "recommendedArtifactSet": "Obsidian Codex (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Astral Vulture's Crimson Plumage",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/chasca.png"
+  },
+  {
+    "id": "citlali",
+    "name": "Citlali",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "nation": "Natlan",
+    "role": "Sub-DPS / Support",
+    "rarity": 5,
+    "description": "A master of the Flower-Feather Clan's traditional arts. She is a woman of great intelligence and talent.",
+    "recommendedArtifactSet": "Obsidian Codex (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Star-Searcher's Sojourn",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/citlali.png"
+  },
+  {
+    "id": "chevreuse",
+    "name": "Chevreuse",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Fontaine",
+    "role": "Support",
+    "rarity": 4,
+    "description": "The captain of the Special Security and Surveillance Patrol, who is always ready to enforce the law.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Rightful Reward",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/chevreuse.png"
+  },
+  {
+    "id": "chiori",
+    "name": "Chiori",
+    "element": "Geo",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "The owner of Chioriya Boutique. A designer from Inazuma who is famous in Fontaine.",
+    "recommendedArtifactSet": "Golden Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Uraku Misugiri",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/chiori.png"
+  },
+  {
+    "id": "chongyun",
+    "name": "Chongyun",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "nation": "Liyue",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A young exorcist from a family of exorcists. He has been doing everything he can to suppress his pure yang spirit.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Wolf's Gravestone",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/chongyun.png"
+  },
+  {
+    "id": "clorinde",
+    "name": "Clorinde",
+    "element": "Electro",
+    "weapon": "Sword",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Champion Duelist of Fontaine, known for her unmatched skill with the blade.",
+    "recommendedArtifactSet": "Fragment of Harmonic Whimsy (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Absolution",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/clorinde.png"
+  },
+  {
+    "id": "collei",
+    "name": "Collei",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "nation": "Sumeru",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A trainee forest ranger under Tighnari in the Avidya Forest.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Stringless",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/collei.png"
+  },
+  {
+    "id": "cyno",
+    "name": "Cyno",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The General Mahamatra in charge of supervising the researchers of the Akademiya.",
+    "recommendedArtifactSet": "Gilded Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Staff of the Scarlet Sands",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/cyno.png"
+  },
+  {
+    "id": "dehya",
+    "name": "Dehya",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Sumeru",
+    "role": "Sub-DPS / Support",
+    "rarity": 5,
+    "description": "A member of the Eremites, a mercenary organization that roams the sands of Sumeru.",
+    "recommendedArtifactSet": "Vourukasha's Glow (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP% / ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Beacon of the Reed Sea",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/dehya.png"
+  },
+  {
+    "id": "diluc",
+    "name": "Diluc",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The tycoon of a winery empire in Mondstadt, unmatched in every possible way.",
+    "recommendedArtifactSet": "Crimson Witch of Flames (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Wolf's Gravestone",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/diluc.png"
+  },
+  {
+    "id": "diona",
+    "name": "Diona",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "nation": "Mondstadt",
+    "role": "Shielder / Healer",
+    "rarity": 4,
+    "description": "The popular bartender of the Cat's Tail tavern, who has a strange mix of cat-like features.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Sacrificial Bow",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/diona.png"
+  },
+  {
+    "id": "dori",
+    "name": "Dori",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "nation": "Sumeru",
+    "role": "Support / Healer",
+    "rarity": 4,
+    "description": "A merchant in Sumeru who has a knack for finding rare and valuable items.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "HP%",
+      "circlet": "HP% / Healing Bonus"
+    },
+    "recommendedWeapon": "Favonius Greatsword",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/dori.png"
+  },
+  {
+    "id": "emilie",
+    "name": "Emilie",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "nation": "Fontaine",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "A renowned perfumer in Fontaine who is known for her exceptional sense of smell.",
+    "recommendedArtifactSet": "Unfinished Reverie (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Lumidouce Elegy",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/emilie.png"
+  },
+  {
+    "id": "eula",
+    "name": "Eula",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Spindrift Knight, a scion of the old aristocracy, and the Captain of the Knights of Favonius Reconnaissance Company.",
+    "recommendedArtifactSet": "Pale Flame (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Physical DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Song of Broken Pines",
+    "recommendedWeaponStat": "Physical DMG Bonus",
+    "image": "https://paimon.moe/images/characters/eula.png"
+  },
+  {
+    "id": "faruzan",
+    "name": "Faruzan",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "nation": "Sumeru",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A researcher from 'one hundred years ago' who is a master of mechanics and puzzles.",
+    "recommendedArtifactSet": "Tenacity of the Millelith (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "Anemo DMG Bonus / ATK%",
+      "circlet": "Crit Rate"
+    },
+    "recommendedWeapon": "Favonius Warbow",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/faruzan.png"
+  },
+  {
+    "id": "fischl",
+    "name": "Fischl",
+    "element": "Electro",
+    "weapon": "Bow",
+    "nation": "Mondstadt",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A mysterious girl who calls herself 'Prinzessin der Verurteilung' and travels with a night raven named Oz.",
+    "recommendedArtifactSet": "Golden Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Stringless",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/fischl.png"
+  },
+  {
+    "id": "freminet",
+    "name": "Freminet",
+    "element": "Cryo",
+    "weapon": "Claymore",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A professional diver in Fontaine who is known for his exceptional skills underwater.",
+    "recommendedArtifactSet": "Pale Flame (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Physical DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Serpent Spine",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/freminet.png"
+  },
+  {
+    "id": "furina",
+    "name": "Furina",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "nation": "Fontaine",
+    "role": "Sub DPS / Buffer",
+    "rarity": 5,
+    "description": "The Regina of All Waters, Kindreds, Peoples and Laws. Beloved by her people.",
+    "recommendedArtifactSet": "Golden Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP% / Energy Recharge",
+      "goblet": "HP% / Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Splendor of Tranquil Waters",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/furina.png"
+  },
+  {
+    "id": "gaming",
+    "name": "Gaming",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A guard for the Sword and Strongbox Secure Transport Agency, and the leader of the 'Wushou Dancing' troupe.",
+    "recommendedArtifactSet": "Marechaussee Hunter (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Serpent Spine",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/gaming.png"
+  },
+  {
+    "id": "ganyu",
+    "name": "Ganyu",
+    "element": "Cryo",
+    "weapon": "Bow",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The secretary to the Liyue Qixing. The blood of the qilin, an illuminated beast, flows within her veins.",
+    "recommendedArtifactSet": "Wanderer's Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Amos' Bow",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/ganyu.png"
+  },
+  {
+    "id": "gorou",
+    "name": "Gorou",
+    "element": "Geo",
+    "weapon": "Bow",
+    "nation": "Inazuma",
+    "role": "Support",
+    "rarity": 4,
+    "description": "The great general of Watatsumi Island's forces. He is a brave and loyal warrior.",
+    "recommendedArtifactSet": "Husk of Opulent Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF% / Energy Recharge",
+      "goblet": "Geo DMG Bonus / DEF%",
+      "circlet": "Crit Rate / DEF%"
+    },
+    "recommendedWeapon": "Favonius Warbow",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/gorou.png"
+  },
+  {
+    "id": "hu-tao",
+    "name": "Hu Tao",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The 77th Director of the Wangsheng Funeral Parlor. She took over the business at a rather young age.",
+    "recommendedArtifactSet": "Crimson Witch of Flames (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP% / Elemental Mastery",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Staff of Homa",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/hu_tao.png"
+  },
+  {
+    "id": "itto",
+    "name": "Arataki Itto",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "nation": "Inazuma",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The first and greatest head of the Arataki Gang, famed throughout Inazuma City's Hanamizaka.",
+    "recommendedArtifactSet": "Husk of Opulent Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Redhorn Stonethresher",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/arataki_itto.png"
+  },
+  {
+    "id": "jean",
+    "name": "Jean",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "nation": "Mondstadt",
+    "role": "Healer / Support",
+    "rarity": 5,
+    "description": "As the Acting Grand Master of the Knights, Jean has always been devoted to her duties and maintaining peace in Mondstadt.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Energy Recharge",
+      "goblet": "Anemo DMG Bonus / ATK%",
+      "circlet": "Healing Bonus / Crit Rate"
+    },
+    "recommendedWeapon": "Amenoma Kageuchi",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/jean.png"
+  },
+  {
+    "id": "kachina",
+    "name": "Kachina",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "nation": "Natlan",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A young warrior from the Children of Echoes in Natlan.",
+    "recommendedArtifactSet": "Scroll of the Hero of Cinder City (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Footprint of the Rainbow",
+    "recommendedWeaponStat": "DEF%",
+    "image": "https://paimon.moe/images/characters/kachina.png"
+  },
+  {
+    "id": "kaeya",
+    "name": "Kaeya",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "nation": "Mondstadt",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "In the Knights of Favonius, Kaeya is the most trusted aide for the Acting Grand Master Jean.",
+    "recommendedArtifactSet": "Blizzard Strayer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Flute",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/kaeya.png"
+  },
+  {
+    "id": "kaveh",
+    "name": "Kaveh",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A renowned architect in Sumeru who is known for his exceptional talent and his kind heart.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery"
+    },
+    "recommendedWeapon": "Mailed Flower",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/kaveh.png"
+  },
+  {
+    "id": "kazuha",
+    "name": "Kaedehara Kazuha",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Buffer / Crowd Control",
+    "rarity": 5,
+    "description": "A wandering samurai from Inazuma who is currently with the Crux Fleet.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery"
+    },
+    "recommendedWeapon": "Freedom-Sworn",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/kaedehara_kazuha.png"
+  },
+  {
+    "id": "keqing",
+    "name": "Keqing",
+    "element": "Electro",
+    "weapon": "Sword",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Yuheng of the Liyue Qixing. Keqing has much to say about Rex Lapis' unilateral approach to policymaking in Liyue.",
+    "recommendedArtifactSet": "Thundering Fury (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Mistsplitter Reforged",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/keqing.png"
+  },
+  {
+    "id": "kinich",
+    "name": "Kinich",
+    "element": "Dendro",
+    "weapon": "Claymore",
+    "nation": "Natlan",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "A Huitztlan Saurian-hunter from Natlan. He is a master of the hunt and a skilled warrior.",
+    "recommendedArtifactSet": "Obsidian Codex (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Mountain-Bracing Wyrm-Slaying Fang",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/kinich.png"
+  },
+  {
+    "id": "kirara",
+    "name": "Kirara",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Shielder",
+    "rarity": 4,
+    "description": "A courier for Komaniya Express who is known for her exceptional speed and her cat-like features.",
+    "recommendedArtifactSet": "Tenacity of the Millelith (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Key of Khaj-Nisut",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/kirara.png"
+  },
+  {
+    "id": "klee",
+    "name": "Klee",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "nation": "Mondstadt",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "Knights of Favonius Spark Knight! Forever accompanied by a bang and a flash!",
+    "recommendedArtifactSet": "Crimson Witch of Flames (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Lost Prayer to the Sacred Winds",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/klee.png"
+  },
+  {
+    "id": "kokomi",
+    "name": "Sangonomiya Kokomi",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Inazuma",
+    "role": "Healer / Support",
+    "rarity": 5,
+    "description": "The Divine Priestess of Watatsumi Island. All of the island's affairs are at her fingertips.",
+    "recommendedArtifactSet": "Ocean-Hued Clam (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "Healing Bonus"
+    },
+    "recommendedWeapon": "Everlasting Moonglow",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/sangonomiya_kokomi.png"
+  },
+  {
+    "id": "kuki-shinobu",
+    "name": "Kuki Shinobu",
+    "element": "Electro",
+    "weapon": "Sword",
+    "nation": "Inazuma",
+    "role": "Healer / Support",
+    "rarity": 4,
+    "description": "The deputy leader of the Arataki Gang. She is a woman of many talents and a skilled warrior.",
+    "recommendedArtifactSet": "Gilded Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery / Healing Bonus"
+    },
+    "recommendedWeapon": "Freedom-Sworn",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/kuki_shinobu.png"
+  },
+  {
+    "id": "layla",
+    "name": "Layla",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "nation": "Sumeru",
+    "role": "Shielder",
+    "rarity": 4,
+    "description": "A student in the Rtawahist Darshan who is known for her exceptional talent and her sleepwalking.",
+    "recommendedArtifactSet": "Tenacity of the Millelith (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Key of Khaj-Nisut",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/layla.png"
+  },
+  {
+    "id": "lisa",
+    "name": "Lisa",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "nation": "Mondstadt",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "The Librarian of the Knights of Favonius. She is a woman of great intelligence and a skilled mage.",
+    "recommendedArtifactSet": "Gilded Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Kagura's Verity",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/lisa.png"
+  },
+  {
+    "id": "lyney",
+    "name": "Lyney",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "A famous magician in Fontaine. He is known for his incredible magic tricks and his charming personality.",
+    "recommendedArtifactSet": "Marechaussee Hunter (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "The First Great Magic",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/lyney.png"
+  },
+  {
+    "id": "mavuika",
+    "name": "Mavuika",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Natlan",
+    "role": "Main DPS / Buffer",
+    "rarity": 5,
+    "description": "The current Pyro Archon and the God of War. She is the leader of Natlan.",
+    "recommendedArtifactSet": "Obsidian Codex (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "A Thousand Blazing Suns",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/mavuika.png"
+  },
+  {
+    "id": "iansan",
+    "name": "Iansan",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "nation": "Natlan",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A young warrior from the Collective of Plenty in Natlan.",
+    "recommendedArtifactSet": "Scroll of the Hero of Cinder City (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Mountain-Bracing Wyrm-Slaying Fang",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/iansan.png"
+  },
+  {
+    "id": "lynette",
+    "name": "Lynette",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "nation": "Fontaine",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A magician's assistant in Fontaine who is known for her exceptional skills and her cat-like features.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Skyward Blade",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/lynette.png"
+  },
+  {
+    "id": "mika",
+    "name": "Mika",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "nation": "Mondstadt",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A surveyor for the Knights of Favonius Reconnaissance Company who is known for his exceptional skills.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "HP%",
+      "circlet": "Healing Bonus"
+    },
+    "recommendedWeapon": "Favonius Lance",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/mika.png"
+  },
+  {
+    "id": "mona",
+    "name": "Mona",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Mondstadt",
+    "role": "Support / Sub-DPS",
+    "rarity": 5,
+    "description": "An astrologer of great skill and pride. She is a woman of great intelligence and a skilled mage.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Widsith",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/mona.png"
+  },
+  {
+    "id": "mualani",
+    "name": "Mualani",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Natlan",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "A guide from the People of the Springs. She is an expert in navigating the waters of Natlan.",
+    "recommendedArtifactSet": "Obsidian Codex (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Surf's Up",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/mualani.png"
+  },
+  {
+    "id": "nahida",
+    "name": "Nahida",
+    "element": "Dendro",
+    "weapon": "Catalyst",
+    "nation": "Sumeru",
+    "role": "Sub-DPS / Support",
+    "rarity": 5,
+    "description": "The Lesser Lord Kusanali, who dwells deep within the Sanctuary of Surasthana.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Dendro DMG Bonus / Elemental Mastery",
+      "circlet": "Crit Rate / Crit DMG / Elemental Mastery"
+    },
+    "recommendedWeapon": "A Thousand Floating Dreams",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/nahida.png"
+  },
+  {
+    "id": "navia",
+    "name": "Navia",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The President of the Spina di Rosula. She is a woman of great resolve and a skilled warrior.",
+    "recommendedArtifactSet": "Nighttime Whispers in the Echoing Woods (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Verdict",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/navia.png"
+  },
+  {
+    "id": "neuvillette",
+    "name": "Neuvillette",
+    "element": "Hydro",
+    "weapon": "Catalyst",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Iudex of Fontaine, known for his unassailable impartiality.",
+    "recommendedArtifactSet": "Marechaussee Hunter (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "Hydro DMG Bonus / HP%",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Tome of the Eternal Flow",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/neuvillette.png"
+  },
+  {
+    "id": "nilou",
+    "name": "Nilou",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "nation": "Sumeru",
+    "role": "Sub-DPS / Support",
+    "rarity": 5,
+    "description": "A dancer under the Zubayr Theater. Her dancing is as graceful as a lotus in bloom.",
+    "recommendedArtifactSet": "2pc Tenacity / 2pc Vourukasha's Glow",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Key of Khaj-Nisut",
+    "recommendedWeaponStat": "HP%",
+    "image": "https://paimon.moe/images/characters/nilou.png"
+  },
+  {
+    "id": "ningguang",
+    "name": "Ningguang",
+    "element": "Geo",
+    "weapon": "Catalyst",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "The Tianquan of the Liyue Qixing. She is a woman of great intelligence and a skilled merchant.",
+    "recommendedArtifactSet": "Nighttime Whispers in the Echoing Woods (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Lost Prayer to the Sacred Winds",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/ningguang.png"
+  },
+  {
+    "id": "noelle",
+    "name": "Noelle",
+    "element": "Geo",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "role": "Main DPS / Shielder",
+    "rarity": 4,
+    "description": "A maid in the service of the Knights of Favonius who dreams of joining their ranks someday.",
+    "recommendedArtifactSet": "Husk of Opulent Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Redhorn Stonethresher",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/noelle.png"
+  },
+  {
+    "id": "ororon",
+    "name": "Ororon",
+    "element": "Electro",
+    "weapon": "Bow",
+    "nation": "Natlan",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A mysterious warrior from the Masters of the Night-Wind in Natlan.",
+    "recommendedArtifactSet": "Scroll of the Hero of Cinder City (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Silverspray Obsidian",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/ororon.png"
+  },
+  {
+    "id": "sara",
+    "name": "Kujou Sara",
+    "element": "Electro",
+    "weapon": "Bow",
+    "nation": "Inazuma",
+    "role": "Support / Buffer",
+    "rarity": 4,
+    "description": "A general of the Tenryou Commission. She is a brave and loyal warrior.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Skyward Harp",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/kujou_sara.png"
+  },
+  {
+    "id": "qiqi",
+    "name": "Qiqi",
+    "element": "Cryo",
+    "weapon": "Sword",
+    "nation": "Liyue",
+    "role": "Healer",
+    "rarity": 5,
+    "description": "An apprentice and herb gatherer at Bubu Pharmacy. She is a zombie with a pale complexion.",
+    "recommendedArtifactSet": "Ocean-Hued Clam (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Energy Recharge",
+      "goblet": "ATK%",
+      "circlet": "Healing Bonus"
+    },
+    "recommendedWeapon": "Sacrificial Sword",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/qiqi.png"
+  },
+  {
+    "id": "raiden-shogun",
+    "name": "Raiden Shogun",
+    "element": "Electro",
+    "weapon": "Polearm",
+    "nation": "Inazuma",
+    "role": "Main DPS / Battery",
+    "rarity": 5,
+    "description": "The Almighty Narukami Ogosho, who promised the people of Inazuma an unchanging Eternity.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / ATK%",
+      "goblet": "Electro DMG Bonus / ATK%",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Engulfing Lightning",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/raiden_shogun.png"
+  },
+  {
+    "id": "razor",
+    "name": "Razor",
+    "element": "Electro",
+    "weapon": "Claymore",
+    "nation": "Mondstadt",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A boy who lives among the wolves in Wolvendom of Mondstadt, away from human civilization.",
+    "recommendedArtifactSet": "Pale Flame (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Physical DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Wolf's Gravestone",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/razor.png"
+  },
+  {
+    "id": "rosaria",
+    "name": "Rosaria",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "nation": "Mondstadt",
+    "role": "Sub-DPS / Support",
+    "rarity": 4,
+    "description": "A sister in Mondstadt's Church of Favonius. She is a woman of great intelligence and a skilled warrior.",
+    "recommendedArtifactSet": "Noblesse Oblige (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Energy Recharge",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit Rate"
+    },
+    "recommendedWeapon": "Deathmatch",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/rosaria.png"
+  },
+  {
+    "id": "sayu",
+    "name": "Sayu",
+    "element": "Anemo",
+    "weapon": "Claymore",
+    "nation": "Inazuma",
+    "role": "Healer / Support",
+    "rarity": 4,
+    "description": "A ninja from the Shuumatsuban who is known for her exceptional skills and her sleepiness.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery"
+    },
+    "recommendedWeapon": "Katsuragikiri Nagamasa",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/sayu.png"
+  },
+  {
+    "id": "sethos",
+    "name": "Sethos",
+    "element": "Electro",
+    "weapon": "Bow",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A young warrior from the desert who is known for his exceptional skills and his kind heart.",
+    "recommendedArtifactSet": "Wanderer's Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Cloud Steward",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/sethos.png"
+  },
+  {
+    "id": "shenhe",
+    "name": "Shenhe",
+    "element": "Cryo",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Support",
+    "rarity": 5,
+    "description": "An ethereal soul amidst the mortal world. A disciple of the Cloud Retainer.",
+    "recommendedArtifactSet": "2pc ATK% / 2pc ATK%",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "ATK%",
+      "circlet": "ATK%"
+    },
+    "recommendedWeapon": "Calamity Queller",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/shenhe.png"
+  },
+  {
+    "id": "sigewinne",
+    "name": "Sigewinne",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "nation": "Fontaine",
+    "role": "Healer / Support",
+    "rarity": 5,
+    "description": "The head nurse of the Fortress of Meropide. She is a woman of great resolve and a skilled healer.",
+    "recommendedArtifactSet": "Songs of Days Past (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Silverspray Obsidian",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/sigewinne.png"
+  },
+  {
+    "id": "sucrose",
+    "name": "Sucrose",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "nation": "Mondstadt",
+    "role": "Support / Crowd Control",
+    "rarity": 4,
+    "description": "An alchemist with a voracious curiosity regarding the world and everything in it.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery"
+    },
+    "recommendedWeapon": "Sacrificial Fragments",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/sucrose.png"
+  },
+  {
+    "id": "tartaglia",
+    "name": "Tartaglia",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "nation": "Snezhnaya",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Eleventh of the Fatui Harbingers, also known as 'Childe'. He is a man of great resolve and a skilled warrior.",
+    "recommendedArtifactSet": "Nymph's Dream (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Polar Star",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/tartaglia.png"
+  },
+  {
+    "id": "thoma",
+    "name": "Thoma",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Inazuma",
+    "role": "Shielder / Support",
+    "rarity": 4,
+    "description": "The housekeeper of the Kamisato Clan. He is a man of many talents and a skilled warrior.",
+    "recommendedArtifactSet": "Flower of Paradise Lost (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Elemental Mastery",
+      "circlet": "Elemental Mastery"
+    },
+    "recommendedWeapon": "Dragon's Bane",
+    "recommendedWeaponStat": "Elemental Mastery",
+    "image": "https://paimon.moe/images/characters/thoma.png"
+  },
+  {
+    "id": "tighnari",
+    "name": "Tighnari",
+    "element": "Dendro",
+    "weapon": "Bow",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "A Forest Watcher in the Avidya Forest. He is a master of botany and a skilled archer.",
+    "recommendedArtifactSet": "Gilded Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Hunter's Path",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/tighnari.png"
+  },
+  {
+    "id": "traveler-anemo",
+    "name": "Traveler (Anemo)",
+    "element": "Anemo",
+    "weapon": "Sword",
+    "nation": "Other",
+    "role": "Support",
+    "rarity": 5,
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Skyward Blade",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/traveler_anemo.png"
+  },
+  {
+    "id": "traveler-geo",
+    "name": "Traveler (Geo)",
+    "element": "Geo",
+    "weapon": "Sword",
+    "nation": "Other",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "recommendedArtifactSet": "Archaic Petra (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Geo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Primordial Jade Cutter",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/traveler_anemo.png"
+  },
+  {
+    "id": "traveler-electro",
+    "name": "Traveler (Electro)",
+    "element": "Electro",
+    "weapon": "Sword",
+    "nation": "Other",
+    "role": "Battery / Support",
+    "rarity": 5,
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Favonius Sword",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/traveler_anemo.png"
+  },
+  {
+    "id": "traveler-dendro",
+    "name": "Traveler (Dendro)",
+    "element": "Dendro",
+    "weapon": "Sword",
+    "nation": "Other",
+    "role": "Sub-DPS / Support",
+    "rarity": 5,
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery",
+      "goblet": "Dendro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Favonius Sword",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/traveler_anemo.png"
+  },
+  {
+    "id": "traveler-hydro",
+    "name": "Traveler (Hydro)",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "nation": "Other",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "A traveler from another world who had their only kin taken away, forcing them to embark on a journey to find The Seven.",
+    "recommendedArtifactSet": "Golden Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Festering Desire",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/traveler_anemo.png"
+  },
+  {
+    "id": "venti",
+    "name": "Venti",
+    "element": "Anemo",
+    "weapon": "Bow",
+    "nation": "Mondstadt",
+    "role": "Crowd Control / Support",
+    "rarity": 5,
+    "description": "A bard that seems to have arrived on some unknown wind — sometimes sings songs as old as the hills, and other times sings poems that are as fresh as a daisy.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Elemental Mastery / ATK%",
+      "goblet": "Anemo DMG Bonus / Elemental Mastery",
+      "circlet": "Crit Rate / Crit DMG / Elemental Mastery"
+    },
+    "recommendedWeapon": "Elegy for the End",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/venti.png"
+  },
+  {
+    "id": "wanderer",
+    "name": "Wanderer",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "nation": "Sumeru",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "A wayfarer whose identity is a mystery. He dresses like a mountain ascetic, but he certainly does not act like one.",
+    "recommendedArtifactSet": "Desert Pavilion Chronicle (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Tulaytullah's Remembrance",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/wanderer.png"
+  },
+  {
+    "id": "wriothesley",
+    "name": "Wriothesley",
+    "element": "Cryo",
+    "weapon": "Catalyst",
+    "nation": "Fontaine",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "The Duke of the Fortress of Meropide. He is a man of great resolve and a skilled warrior.",
+    "recommendedArtifactSet": "Marechaussee Hunter (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Cryo DMG Bonus",
+      "circlet": "Crit DMG"
+    },
+    "recommendedWeapon": "Cashflow Supervision",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/wriothesley.png"
+  },
+  {
+    "id": "xianyun",
+    "name": "Xianyun",
+    "element": "Anemo",
+    "weapon": "Catalyst",
+    "nation": "Liyue",
+    "role": "Support / Healer",
+    "rarity": 5,
+    "description": "One of the Mighty and Illuminated Adepti of Jueyun Karst, known as 'Cloud Retainer'.",
+    "recommendedArtifactSet": "Viridescent Venerer (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Energy Recharge",
+      "goblet": "ATK%",
+      "circlet": "ATK% / Healing Bonus"
+    },
+    "recommendedWeapon": "Crane's Echoing Call",
+    "recommendedWeaponStat": "ATK%",
+    "image": "https://paimon.moe/images/characters/xianyun.png"
+  },
+  {
+    "id": "xiao",
+    "name": "Xiao",
+    "element": "Anemo",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "One of the 'Mighty and Illuminated Adepti' guarding Liyue, also heralded as the 'Guardian Yaksha'.",
+    "recommendedArtifactSet": "Vermillion Hereafter (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Anemo DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Primordial Jade Winged-Spear",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/xiao.png"
+  },
+  {
+    "id": "xiangling",
+    "name": "Xiangling",
+    "element": "Pyro",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Sub-DPS",
+    "rarity": 4,
+    "description": "A renowned chef from Liyue who is always on the hunt for the next big scoop.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "Energy Recharge / Elemental Mastery",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "The Catch",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/xiangling.png"
+  },
+  {
+    "id": "xilonen",
+    "name": "Xilonen",
+    "element": "Geo",
+    "weapon": "Sword",
+    "nation": "Natlan",
+    "role": "Support / Buffer",
+    "rarity": 5,
+    "description": "A master smith from the Children of Echoes. She is known for her exceptional craftsmanship and her ability to resolve conflicts.",
+    "recommendedArtifactSet": "Scroll of the Hero of Cinder City (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF%",
+      "goblet": "Geo DMG Bonus / DEF%",
+      "circlet": "DEF% / Healing Bonus"
+    },
+    "recommendedWeapon": "Peak Patrol Song",
+    "recommendedWeaponStat": "DEF%",
+    "image": "https://paimon.moe/images/characters/xilonen.png"
+  },
+  {
+    "id": "xingqiu",
+    "name": "Xingqiu",
+    "element": "Hydro",
+    "weapon": "Sword",
+    "nation": "Liyue",
+    "role": "Sub-DPS / Support",
+    "rarity": 4,
+    "description": "The second son of the Feiyun Commerce Guild. He has a reputation for being studious and polite.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Energy Recharge",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Sacrificial Sword",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/xingqiu.png"
+  },
+  {
+    "id": "xinyan",
+    "name": "Xinyan",
+    "element": "Pyro",
+    "weapon": "Claymore",
+    "nation": "Liyue",
+    "role": "Support / Sub-DPS",
+    "rarity": 4,
+    "description": "Liyue's sole rock 'n' roll musician. She rebels against prejudiced social conventions using her music and passionate fire.",
+    "recommendedArtifactSet": "Pale Flame (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Physical DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Redhorn Stonethresher",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/xinyan.png"
+  },
+  {
+    "id": "yae-miko",
+    "name": "Yae Miko",
+    "element": "Electro",
+    "weapon": "Catalyst",
+    "nation": "Inazuma",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "The Guuji of the Grand Narukami Shrine and the owner of the Yae Publishing House.",
+    "recommendedArtifactSet": "Golden Troupe (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK% / Elemental Mastery",
+      "goblet": "Electro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Kagura's Verity",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/yae_miko.png"
+  },
+  {
+    "id": "yanfei",
+    "name": "Yanfei",
+    "element": "Pyro",
+    "weapon": "Catalyst",
+    "nation": "Liyue",
+    "role": "Main DPS",
+    "rarity": 4,
+    "description": "A legal advisor in Liyue Harbor. She is a woman of great intelligence and a skilled lawyer.",
+    "recommendedArtifactSet": "Crimson Witch of Flames (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Lost Prayer to the Sacred Winds",
+    "recommendedWeaponStat": "Crit Rate",
+    "image": "https://paimon.moe/images/characters/yanfei.png"
+  },
+  {
+    "id": "yaoyao",
+    "name": "Yaoyao",
+    "element": "Dendro",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Healer / Support",
+    "rarity": 4,
+    "description": "A young disciple of the Streetward Rambler who is known for her exceptional skills and her kind heart.",
+    "recommendedArtifactSet": "Deepwood Memories (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP% / Energy Recharge",
+      "goblet": "HP%",
+      "circlet": "Healing Bonus"
+    },
+    "recommendedWeapon": "Favonius Lance",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/yaoyao.png"
+  },
+  {
+    "id": "yelan",
+    "name": "Yelan",
+    "element": "Hydro",
+    "weapon": "Bow",
+    "nation": "Liyue",
+    "role": "Sub-DPS",
+    "rarity": 5,
+    "description": "A mysterious person who claims to work for the Ministry of Civil Affairs, but is a non-entity on their list.",
+    "recommendedArtifactSet": "Emblem of Severed Fate (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP% / Energy Recharge",
+      "goblet": "Hydro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Aqua Simulacra",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/yelan.png"
+  },
+  {
+    "id": "yoimiya",
+    "name": "Yoimiya",
+    "element": "Pyro",
+    "weapon": "Bow",
+    "nation": "Inazuma",
+    "role": "Main DPS",
+    "rarity": 5,
+    "description": "Owner of Naganohara Fireworks. Known as the 'Queen of the Summer Festival'.",
+    "recommendedArtifactSet": "Shimenawa's Reminiscence (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "ATK%",
+      "goblet": "Pyro DMG Bonus",
+      "circlet": "Crit Rate / Crit DMG"
+    },
+    "recommendedWeapon": "Thundering Pulse",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/yoimiya.png"
+  },
+  {
+    "id": "yun-jin",
+    "name": "Yun Jin",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Support",
+    "rarity": 4,
+    "description": "A renowned opera singer in Liyue Harbor who is known for her exceptional talent and her kind heart.",
+    "recommendedArtifactSet": "Husk of Opulent Dreams (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "DEF% / Energy Recharge",
+      "goblet": "DEF%",
+      "circlet": "DEF%"
+    },
+    "recommendedWeapon": "Favonius Lance",
+    "recommendedWeaponStat": "Energy Recharge",
+    "image": "https://paimon.moe/images/characters/yun_jin.png"
+  },
+  {
+    "id": "zhongli",
+    "name": "Zhongli",
+    "element": "Geo",
+    "weapon": "Polearm",
+    "nation": "Liyue",
+    "role": "Shielder / Support",
+    "rarity": 5,
+    "description": "A mysterious consultant invited by the Wangsheng Funeral Parlor. Extremely knowledgeable in all things.",
+    "recommendedArtifactSet": "Tenacity of the Millelith (4-Piece)",
+    "recommendedArtifactStats": {
+      "sands": "HP%",
+      "goblet": "HP%",
+      "circlet": "HP%"
+    },
+    "recommendedWeapon": "Staff of Homa",
+    "recommendedWeaponStat": "Crit DMG",
+    "image": "https://paimon.moe/images/characters/zhongli.png"
+  }
+]
