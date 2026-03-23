@@ -1,38 +1,51 @@
 # Teyvat Guidebook
 
-A polished, beginner-friendly fan website for Genshin Impact players. This project is built with React, Tailwind CSS, and Framer Motion, designed to be a static site that can be easily deployed to platforms like GitHub Pages.
+Teyvat Guidebook is a beginner-friendly **Genshin Impact** fan website designed to help new players learn the basics of the game. It includes character guides, artifact recommendations, a team builder, and a beginner guide, all wrapped in a fantasy-inspired purple and white interface.
+
+Built as a static frontend project with **React**, **Tailwind CSS**, **Framer Motion**, and **Vite**, the site is designed for smooth deployment on **GitHub Pages**.
 
 ## Features
 
-- **Characters**: Detailed cards for popular characters with element, weapon, and build recommendations.
-- **Artifacts**: Information on artifact sets, their bonuses, and where to farm them.
-- **Team Builder**: Interactive tool to plan your 4-character party and see elemental synergies.
-- **Beginner Guide**: Essential tips, resin management, and farming strategies for new players.
-- **Responsive Design**: Fully optimized for mobile, tablet, and desktop viewing.
-- **Fantasy UI**: A magical purple and white theme inspired by the game's aesthetic.
+- **Character Guides**  
+  Browse character cards with key details such as element, weapon type, nation/region, role, and recommended builds.
+
+- **Artifact Directory**  
+  Explore artifact sets, their effects, ideal users, and where to farm them.
+
+- **Team Builder**  
+  Build a 4-character team, explore elemental synergy, and experiment with different team compositions.
+
+- **Beginner Guide**  
+  Learn essential early-game topics including leveling, resin management, artifact and weapon farming, domains, and team-building basics.
+
+- **Responsive Design**  
+  Optimized for desktop, tablet, and mobile.
+
+- **Fantasy-Inspired UI**  
+  Styled with a polished purple-and-white theme inspired by the feel of Teyvat.
 
 ## Tech Stack
 
-- **Framework**: React 19
-- **Styling**: Tailwind CSS 4
-- **Icons**: Lucide React
-- **Animations**: Framer Motion
-- **Routing**: React Router 7
-- **Build Tool**: Vite
+- **Framework:** React 19
+- **Build Tool:** Vite
+- **Styling:** Tailwind CSS 4
+- **Routing:** React Router 7
+- **Animations:** Framer Motion
+- **Icons:** Lucide React
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js (v18 or higher)
+- Node.js 18 or higher
 - npm
 
 ### Installation
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/teyvat-guidebook.git
-   cd teyvat-guidebook
+   git clone https://github.com/angelachen131-glitch/Teyvat_Guidebook.git
+   cd Teyvat_Guidebook
    ```
 
 2. Install dependencies:
@@ -45,42 +58,26 @@ A polished, beginner-friendly fan website for Genshin Impact players. This proje
    npm run dev
    ```
 
-4. Open [http://localhost:3000](http://localhost:3000) in your browser.
+### Live Site
 
-## Deployment to GitHub Pages
-
-To deploy this project to GitHub Pages, follow these steps:
-
-1. **Update `vite.config.ts`**:
-   Ensure the `base` property matches your repository name:
-   ```typescript
-   export default defineConfig({
-     base: '/teyvat-guidebook/', // Replace with your repo name
-     // ... other config
-   })
+GitHub Pages deployment:
+   ```
+   https://angelachen131-glitch.github.io/Teyvat_Guidebook/
    ```
 
-2. **Build the project**:
-   ```bash
-   npm run build
-   ```
+### Deployment
 
-3. **Deploy**:
-   You can use the `gh-pages` package to deploy the `dist` folder:
-   ```bash
-   npm install -D gh-pages
-   ```
-   Add a deploy script to `package.json`:
-   ```json
-   "scripts": {
-     "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist"
-   }
-   ```
-   Then run:
-   ```bash
-   npm run deploy
-   ```
+This project is configured for deployment through GitHub Pages using GitHub Actions.
+
+If you are deploying under this repository name, make sure vite.config.ts uses:
+
+``` base: '/Teyvat_Guidebook/' ```
+
+To deploy:
+
+Push changes to the main branch
+GitHub Actions will automatically build and deploy the site
+Open the GitHub Pages live link once deployment finishes
 
 ## Data Source
 
